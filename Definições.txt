@@ -1,0 +1,15 @@
+﻿O que é um framework?
+
+	Frameworks são bibliotecas de codigos para que se possa ser reutilizado em aplicações,
+	é a interface da aplicação que geralmente mantem padrões de telas e evita que o desenvolvedor
+	perca tempo refazendo codigos que antes já foram feitos.
+	
+O que é padrão de projeto?
+	Padrões de projeto são uma forma de organizar um software para que fique mais facil de entender
+	e até mesmo dar suporte para a aplcação futuramente, evitando muitos problemas.
+	
+Quais as principais categorias de padrões de projetos?
+	Singleton, Factory Method, MVC, VCL, Startegy.
+	
+Qual o principal Padrão de projeto utilizado nessa aplicação?
+	MVC (Model View Controller).
